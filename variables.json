@@ -1,0 +1,15 @@
+{
+	"title": "Découvrez les nouveaux élus Fribourgeois",
+	"description": "Retrouvez ici les 120 élus fribourgeois.",
+	"authors": "Lila Erard, Anne-Julie Ruz",
+	"imgSocial": "social2.jpg", 
+
+	"navBarStyle": "normal",
+	"navBarOffset": "0",
+	"navBarLocked": true,
+
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "http://www.laliberte.ch"
+	}
+}
