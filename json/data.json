@@ -537,8 +537,8 @@
     },
     {
       "CardId": 21,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8801/imim_573c224b98556.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "https://pcsfribourg.files.wordpress.com/2011/07/chassot-300.jpg",
+      "Sourcephoto": "pcsfribourg",
       "cardTitre": "Claude Chassot",
       "CardFilter1Display": "CG-PCS",
       "CardFilter1Tri": "f-autres",
