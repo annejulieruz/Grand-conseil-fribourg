@@ -2851,8 +2851,8 @@
     },
     {
       "CardId": 110,
-      "CardImage": "http://www.markus-zosso.ch/Bilder/home.jpg",
-      "Sourcephoto": "markus-zosso.ch",
+      "CardImage": "https://www.fr.ch/hfr/files/jpg14/html/MarkusZosso_web/0250x0250.jpg",
+      "Sourcephoto": "fr.ch",
       "cardTitre": "Markus Zosso",
       "CardFilter1Display": "UDC",
       "CardFilter1Tri": "f-udc",
