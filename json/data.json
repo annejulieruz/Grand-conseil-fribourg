@@ -2851,7 +2851,7 @@
     },
     {
       "CardId": 110,
-      "CardImage": "https://www.fr.ch/hfr/files/jpg14/html/MarkusZosso_web/0250x0250.jpg",
+      "CardImage": "https://raw.githubusercontent.com/annejulieruz/Grand-conseil-fribourg/gh-pages/home.jpg",
       "Sourcephoto": "fr.ch",
       "cardTitre": "Markus Zosso",
       "CardFilter1Display": "UDC",
