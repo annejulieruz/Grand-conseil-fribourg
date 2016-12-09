@@ -667,8 +667,8 @@
     },
     {
       "CardId": 26,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8765/imim_5775f93713c9d.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://pdc-fr.ch/wp-content/uploads/2015/03/Dafflon_Hubert_SVK1868_cmjn1.jpg",
+      "Sourcephoto": "pdc-fr.ch",
       "cardTitre": "Hubert Dafflon",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
@@ -1993,8 +1993,8 @@
     },
     {
       "CardId": 77,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8769/imim_576beb5b62991.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://www.lagruyere.ch/sites/gru/files/styles/node_image_full/public/0.14895900_1478642043.jpg?itok=RasCCs8_",
+      "Sourcephoto": "lagruyere.ch",
       "cardTitre": "Stéphane Peiry",
       "CardFilter1Display": "UDC",
       "CardFilter1Tri": "f-udc",
