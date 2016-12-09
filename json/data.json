@@ -979,8 +979,8 @@
     },
     {
       "CardId": 38,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8808/imim_573c2242982d5.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://pdc-fr.ch/wp-content/uploads/2015/03/Gamba_Marc_SVK2472_cmjn.jpg",
+      "Sourcephoto": "pdc-fr.ch",
       "cardTitre": "Marc-Antoine Gamba",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
