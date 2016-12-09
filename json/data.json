@@ -1837,8 +1837,8 @@
     },
     {
       "CardId": 71,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8787/imim_576beb57de560.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://pdcbroye.ch/wp-content/uploads/2016/10/14690933_1249098648444711_5375422222437982858_n.png",
+      "Sourcephoto": "pdcbroye.ch",
       "cardTitre": "Anne Meyer-Loetscher",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
@@ -1941,8 +1941,8 @@
     },
     {
       "CardId": 75,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8793/imim_576beb5bc54bf.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://www.laliberte.ch/media/image/10/normal/asset-version-f99111f1a8-08_fr_fr3_christa.jpg",
+      "Sourcephoto": "La Liberté",
       "cardTitre": "Christa Mutter",
       "CardFilter1Display": "Les Verts",
       "CardFilter1Tri": "f-les-verts",
