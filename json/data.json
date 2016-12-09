@@ -199,8 +199,8 @@
     },
     {
       "CardId": 8,
-      "CardImage": "http://www.parlinfo.fr.ch/fr/images/imim_5826b12ae9ad9.jpg",
-      "Sourcephoto": "parlinfo.fr.ch",
+      "CardImage": "https://raw.githubusercontent.com/annejulieruz/Grand-conseil-fribourg/gh-pages/72BBCFD2-CA10-4E35-94E8-F167C0A01EF0.JPG",
+      "Sourcephoto": "Simon Bischof",
       "cardTitre": "Simon Bischof",
       "CardFilter1Display": "PS",
       "CardFilter1Tri": "f-ps",
