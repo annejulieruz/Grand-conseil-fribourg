@@ -1681,8 +1681,8 @@
     },
     {
       "CardId": 65,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8800/imim_576beb56e7220.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://pdc-fr.ch/wp-content/uploads/2015/03/Longchamp_Patrice_SVK4066_cmjn.jpg",
+      "Sourcephoto": "pdc-fr.ch",
       "cardTitre": "Patrice Longchamp",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
