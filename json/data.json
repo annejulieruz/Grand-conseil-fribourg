@@ -2123,8 +2123,8 @@
     },
     {
       "CardId": 82,
-      "CardImage": "http://images.gofreedownload.net/man-silhouette-clip-art-5219.jpg",
-      "Sourcephoto": "Non applicable",
+      "CardImage": "https://raw.githubusercontent.com/annejulieruz/Grand-conseil-fribourg/gh-pages/Repond%20Nicolas.jpg",
+      "Sourcephoto": "Parlement",
       "cardTitre": "Nicolas Repond",
       "CardFilter1Display": "PS",
       "CardFilter1Tri": "f-ps",
