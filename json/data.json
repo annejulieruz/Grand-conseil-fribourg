@@ -1239,8 +1239,8 @@
     },
     {
       "CardId": 48,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8760/imim_576beb5c9e861.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "http://pdc-fr.ch/wp-content/uploads/2015/03/Grangirard_Pierre_Andre_SVK3972_cmjn.jpg",
+      "Sourcephoto": "pdc-fr.ch",
       "cardTitre": "Pierre-André Grandgirard",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
@@ -2617,8 +2617,8 @@
     },
     {
       "CardId": 101,
-      "CardImage": "https://s3-eu-west-1.amazonaws.com/static.jquestapp.com/persons/8743/imim_57985c4eb68e1.jpg",
-      "Sourcephoto": "Parlement",
+      "CardImage": "https://www.verts-fr.ch/wp-content/uploads/files/federales-2015/SVK6245.NEF.p.jpg",
+      "Sourcephoto": "verts-fr.ch",
       "cardTitre": "Laurent Thévoz",
       "CardFilter1Display": "Les Verts",
       "CardFilter1Tri": "f-les-verts",
