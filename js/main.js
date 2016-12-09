@@ -285,4 +285,22 @@ jQuery(document).ready(function($)
 		$('.content').isotope({ filter: $filterValue });
 	});
 
+	$(".filter7-btn-grp .btn").on('click', function(e) {
+		$(".filter7-btn-grp .btn").removeClass('is-active');
+		$(this).addClass('is-active');
+		$(this).parent().parent().find('span').show();
+		var filter = $(this).attr('data-filter');
+		filters['filter7-btn-grp'] = filter;
+		$filterValue = concatValues( filters );
+		$('.content').isotope({ filter: $filterValue });
+	});
+
+	$(".filter7 h4 span").on('click', function(e) {
+		$(this).parent().parent().find('.btn').removeClass('is-active');
+		$(this).hide();
+		filters['filter7-btn-grp'] = undefined;
+		$filterValue = concatValues( filters );
+		$('.content').isotope({ filter: $filterValue });
+	});
+
 });

@@ -561,7 +561,7 @@ div.card {
   cursor: pointer; }
 div.card h2 {
   font-size: 1em;
-  
+
 }
   @media (max-width: 500px) {
     div.card {
@@ -762,6 +762,35 @@ div.filter6-btn-grp {
     div.filter6-btn-grp div.btn.is-active {
       background: #a91a8a;
       color: white; }
+
+div.filter7 h4 {
+  color: #03EBA6 !important;
+  font-size: 0.9rem; }
+  div.filter7 h4 i {
+    font-size: 1rem; }
+
+div.filter7-btn-grp {
+  width: 100%;
+  overflow: auto;
+  margin-bottom: 1rem; }
+  div.filter7-btn-grp span {
+    color: #03EBA6; }
+  div.filter7-btn-grp div.btn {
+    cursor: pointer;
+    width: 100%;
+    float: left;
+    font-family: 'Lato';
+    color: white;
+    padding: 7px 20px;
+    background-image: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; }
+    div.filter7-btn-grp div.btn:hover {
+      background: #4a5456; }
+    div.filter7-btn-grp div.btn.is-active {
+      background: #03EBA6;
+      color: white; }
+
 
 svg.close-article {
   position: absolute;

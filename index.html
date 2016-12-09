@@ -115,7 +115,6 @@
 	</style>
 
 	<!-- SCRIPTS -->
-	<!-- AD -->
 
 	<script type="text/javascript">
 
@@ -176,7 +175,7 @@
 	<script id="card-template" type="text/x-handlebars-template">
 	
 		{{#each cards}}
-	  		<div class="card {{CardFilter1Tri}} {{cardFilter2Tri}} {{cardFilter3Tri}} {{CardFilter4Tri}} {{cardFilter5Tri}} {{CardFilter6Tri}}" data-cardid="{{CardId}}">
+	  		<div class="card {{CardFilter1Tri}} {{CardFilter2Tri}} {{CardFilter3Tri}} {{CardFilter4Tri}} {{CardFilter5Tri}} {{CardFilter6Tri}} {{CardFilter7Tri}}" data-cardid="{{CardId}}">
 				<div class="card-header">
 					<img src="{{{CardImage}}}" alt=""> 
 				</div>
@@ -202,8 +201,10 @@
 					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo2}}}<br>
 					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo3}}}<br>
 					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo4}}}<br>
-					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo5}}}
+					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo5}}}<br>
+					<i class="fa fa-caret-right"></i>&nbsp;&nbsp;{{{CardInfo6}}}
 				</h2>
+				<p>Crédit photo: {{{Sourcephoto}}}.</p>
 				<div class="btn">Fermer</div>
 			</div>
 		
@@ -211,19 +212,8 @@
 
 	<body style="padding-top: 0;">
 
-		    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQ2B8Q"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TQ2B8Q');</script>
-    <!-- End Google Tag Manager -->
-
-    <!-- REMP -->
-    <script language="JavaScript" type="text/javascript"> <!--
-    	var WEMF="https://temp-ssl.wemfbox.ch/cgi-bin/ivw/CP/non_classe/article";
-    	document.write("<img src=\""+WEMF+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\"width=\"1\" height=\"1\" alt=\"\"  style=\"display: none;\" />");
-    </script>
-    <noscript>
-    	<img src="https://temp-ssl.wemfbox.ch/cgi-bin/ivw/CP/non_classe/article" width="1" height="1" alt="" />
-    </noscript>
+		    
+    
 
     <!-- NAVBAR -->
     <div class="brand-nav normal headroom is-locked">
@@ -358,6 +348,16 @@
 				</div>
 			</div>
 
+			<div class="filter7">
+				<h4>
+					Réélu-e-s <span><i class="fa fa-close"></i>
+				</h4>
+				<div class="filter7-btn-grp" data-filter-group="duree">
+					<div class="btn" data-filter=".f-elu-premiere-fois">Elu-e pour la première fois</div>
+					<div class="btn" data-filter=".f-reelu">Réélu-e</div>
+				</div>
+			</div>
+
 			<h3 class="close-menu">
 				Fermer
 			</h3>
@@ -374,33 +374,7 @@
 
 		</div>
 
-		    <!-- CHARBEAT BIS -->
-    <script type='text/javascript'>
-        var _sf_async_config = _sf_async_config || {};
-        /** CONFIGURATION START **/
-        _sf_async_config.uid = 0; //CHANGE THIS
-        _sf_async_config.domain = 'laliberte.ch'; //CHANGE THIS
-        _sf_async_config.useCanonical = true;
-        _sf_async_config.sections = 'Interactive'; //CHANGE THIS
-        _sf_async_config.authors = 'Lila Erard, Anne-Julie Ruz'; //CHANGE THIS
-        /** CONFIGURATION END **/
-        (function() {
-            function loadChartbeat() {
-                window._sf_endpt = (new Date()).getTime();
-                var e = document.createElement('script');
-                e.setAttribute('language', 'javascript');
-                e.setAttribute('type', 'text/javascript');
-                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-                document.body.appendChild(e);
-            }
-            var oldonload = window.onload;
-            window.onload = (typeof window.onload != 'function') ?
-                loadChartbeat : function() {
-                    oldonload();
-                    loadChartbeat();
-                };
-        })();
-    </script>
+		   
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
