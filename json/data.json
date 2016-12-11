@@ -1889,8 +1889,8 @@
     },
     {
       "CardId": 73,
-      "CardImage": "http://pdc-sarine.ch/wp-content/uploads/2016/09/morel.jpg",
-      "Sourcephoto": "pdc-sarine.ch",
+      "CardImage": "http://www.piller-morel.ch/uploads/images/_thumb/405/bertrand_morel.jpg",
+      "Sourcephoto": "piller-morel.ch",
       "cardTitre": "Bertrand Morel",
       "CardFilter1Display": "PDC",
       "CardFilter1Tri": "f-pdc",
@@ -1909,7 +1909,7 @@
       "CardInfo1": "Parti: PDC",
       "CardInfo2": "Âge au moment de l'élection: 41 ans",
       "CardInfo3": "Langue d'usage: Français",
-      "CardInfo4": "Profession: Chargé de cours au Centre de Perfectionnement Interprofessionnel (CPI)",
+      "CardInfo4": "Profession: Avocat",
       "CardInfo5": "Cercle électoral: Sarine-Campagne",
       "CardInfo6": "Élu(e) pour la première fois"
     },
