@@ -1551,8 +1551,8 @@
     },
     {
       "CardId": 60,
-      "CardImage": "http://www.udc-fr.ch/wp-content/uploads/Kolly11.jpg",
-      "Sourcephoto": "udc-fr.ch",
+      "CardImage": "https://raw.githubusercontent.com/annejulieruz/Grand-conseil-fribourg/gh-pages/Gabriel%20Kolly.jpg",
+      "Sourcephoto": "Gabriel Kolly",
       "cardTitre": "Gabriel Kolly",
       "CardFilter1Display": "UDC",
       "CardFilter1Tri": "f-udc",
